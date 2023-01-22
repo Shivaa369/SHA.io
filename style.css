@@ -1,0 +1,49 @@
+.searchbtn {
+	background-color: darkblue;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 12px;
+	cursor: pointer;
+
+}
+
+.searchbtn:hover {
+	background-color: skyblue;
+	color: black;
+}
+
+.randombtn {
+	background-color: green;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 12px;
+	cursor: pointer;
+}
+
+.randombtn:hover {
+	background-color: skyblue;
+	color: black;
+}
+
+.input {
+	padding: 5px 11px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border-radius: 12px;
+}
+
+.title {
+	font-family: cursive;
+	background-color: skyblue;
+
+}
